@@ -1,0 +1,1 @@
+# lpddrmemory_model
